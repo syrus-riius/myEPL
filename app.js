@@ -22,10 +22,6 @@ https://sports.daum.net/prx/hermes/api/person/list.json?leagueCode=epl&teamId=25
 teamID : 1321  / newsid = 196480
 https://sports.daum.net/prx/styler/query/alias/19?page=0&id=196480&limit=8
 
-
-
-
-
 */
 
 const DAUM_SCHEDULE =
